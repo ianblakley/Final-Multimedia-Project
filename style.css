@@ -182,6 +182,10 @@ h3 {
   transform: translateY(5px);
 }
 
+li {
+  color: #ffffff
+}
+
 /* Button dip
 - Toggling this class on and off will move it down and up again
 - The button transition property above determines the speed of the translate (500ms)

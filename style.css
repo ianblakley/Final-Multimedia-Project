@@ -173,6 +173,10 @@ p {
   color: #ffffff;
 }
 
+h3 {
+  color: #ffffff;
+  font-size: 24;
+}
 /* Interactive image */
 .illustration:active {
   transform: translateY(5px);
